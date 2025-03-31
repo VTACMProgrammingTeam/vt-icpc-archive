@@ -94,7 +94,7 @@ virginia tech at icpc regionals
     1999 - 144 teams:  2, 7, 8, 15
     1998 - 138 teams:  1, 3, 13, 53
 
-(2020*) Due to Covid-19, the Fall 2020 regionals were not hold until March 2021.
+(2020*) Due to Covid-19, the Fall 2020 regionals were not held until March 2021.
 
 (2014*) In 2014, the PC^2 contest management system failed about 3:45h into the contest.
     Some teams were able to submit and received acknowledgments, some did not.
@@ -191,39 +191,39 @@ In the 2020/2021 season, a North American Division Championship took place.
     No team advanced to the NAC 2021.
 
 virginia tech icpc regionals teams
-    2025    https://nasouth24.kattis.com/contests/nasouth24d1/standings
-    50th place - VT Team 1 - 
+    2024    https://nasouth24.kattis.com/contests/nasouth24d1/standings
+    33th place - �  - Benjamin MacDougall, Samuel Rey Paraja, Wei Jhe (Morris) Lin
+    50th place - VT Team 1 - Sriniketh Vangaru, Maceo Cardinale Kwik, Thang Cao
     division 2    https://nasouth24.kattis.com/contests/nasouth24d2/standings
-     9th place - VT Team 3 - 
-    98th place - VT Team 5 - 
+     9th place - VT Team 3 - Justin Zhang, Aarush Patil, Joshua Layer
+    13th place - NNE - Nate Williams, Nathan Grunkemeyer, Enzo Ruggeri Isotton
+    98th place - VT Team 5 - Josue Munoz Gomez
     
-    2024    https://nasouth23.kattis.com/contests/nasouth23d1/standings
-    56th place - VT Team 1 - 
+    2023    https://nasouth23.kattis.com/contests/nasouth23d1/standings
+    56th place - VT Team 1 - Luke DiGiovanna, Sriniketh Vangaru, Taufiq Daryanto
     division 2    https://nasouth23.kattis.com/contests/nasouth23d2/standings
-     8th place - VT Team 4 - 
-    19th place - VT Team 2 - 
-    21st place - VT Team 3 - 
+     8th place - VT Team 4 - Maceo Cardinale Kwik, Roman Chenoweth
+    19th place - VT Team 2 - Alexander Natt, Michael Shi, Gavin Borthwick
+    21st place - VT Team 3 - Yuvanesh Anand, Shardul Dhongade, Rick Wang
     
-    2023    https://nasouth22d1.kattis.com/contests/nasouth22d1/standings
-    24th place - VT Team 1 - 
-    29th place - VT Team 4 - 
-    68th place - VT Team 2 - 
-    71st place - VT Team 3 - 
+    2022    https://nasouth22d1.kattis.com/contests/nasouth22d1/standings
+    24th place - VT Team 1 - Luke DiGiovanna, Andrew Ferrin, Molly Finley
+    29th place - VT Team 4 - Darshan Vekaria, Anish Reddy Ellore, Md Mahim Anjum Haque
+    68th place - VT Team 2 - Gavin Borthwick, Xi Chen, Rick Wang
+    71st place - VT Team 3 - Alexander Natt, Miguel Alonso, Antonio Alonso
     division 2    https://nasouth22d2.kattis.com/contests/nasouth22d2/standings
-    16th place - VT Team 6 - 
-    27th place - VT Team 5 - 
-    42nd place - VT Team 7 - 
-    42nd place - VT Team 8 - 
+    16th place - VT Team 6 - ???, ???, ???
+    27th place - VT Team 5 - Michael Shi, Samer Jouhar, Riyos Pudasaini
 
     2021    https://mausa21.kattis.com/contests/mausa21/standings
-    21st place - "Team 2" - 
-    25th place - "se·ren·i·ty" - 
-    32nd place - "Team 1" - 
-    47th place - "Team 6" - 
-    61st place - "Team 5" - 
-    68th place - "Team 7" - 
-    72nd place - "Team 4" - 
-    97th place - "Team 3" - 
+    21st place - "Team 2" - Luke DiGiovanna, Brian Tan, Harshvardhan Sahay
+    25th place - "se·ren·i·ty" - Jacob Rice, ???, ???
+    32nd place - "Team 1" - Tori Mannarelli, Andrew Ferrin, Kevin Zhu
+    47th place - "Team 6" - Thomas Vergeres, Darshan Vekaria, Anish Reddy Ellore
+    61st place - "Team 5" - Gautam Nair, Lucas Nunn, Nikolai Long
+    68th place - "Team 7" - Sushil Khairnar, Mrunal Khinvasara, Sai Venkat Banda
+    72nd place - "Team 4" - Aniruthan Ramadoss, Siddhartha Lamichhane, Payton Klemens
+    97th place - "Team 3" - Vikram Bala, Michael Shi, Aden Pandey
 
     2020    https://mausa20.kattis.com/contests/mausa20/standings
      4th place - "Team 2" - Yibo Huang, Calvin Godfrey, Joey Dyer
